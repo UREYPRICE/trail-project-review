@@ -1,0 +1,83 @@
+body{
+    background-image: url(https://i.ibb.co/m4hx1cg/doc-gfule.png);
+    
+ background-size: cover;
+     background-attachment: fixed;
+     color:burlywood;
+     font-family:sans-serif;
+     text-align: center;
+     min-width: 260px;
+ }
+ #main{
+     margin: 80px auto 60px auto;
+     padding: 30px;
+     
+     border-radius: 10px;
+     
+ }
+ 
+ #title{
+     text-decoration: underline
+ }
+ 
+ 
+ #img-div{
+     margin-top: 20px;
+     ;
+     padding: 20px;
+     
+ }
+ 
+ 
+ #image{
+     
+    width: 80%; 
+   
+   height: auto;
+   margin: auto;
+     border-radius: 10px;
+ }
+ 
+ 
+ #img-caption{
+     margin: 10px;
+         padding:10px;
+     
+ }
+ 
+ 
+ #heading{
+     text-align: left;
+     margin-top: 50px;
+ }
+ 
+ 
+ ul{
+     max-width: 550px;
+     margin: 0px auto 0px auto;
+     text-align: left ;
+     
+ }
+ 
+ 
+ li{
+     padding: 10px;
+     
+ }
+ 
+ 
+ /*
+ Main image!
+ [url=https://ibb.co/Q945V1g][img]https://i.ibb.co/v1StWKF/doc-king.jpg[/img][/url]
+ [url=https://freeonlinedice.com/]dice roler[/url]
+ 
+ 
+ 
+ */
+ 
+ 
+ /* BACKGROUND IMG!
+   [url=https://ibb.co/njQWZLt][img]https://i.ibb.co/m4hx1cg/doc-gfule.png[/img][/url]
+ [url=https://freeonlinedice.com/]dice roler[/url]  
+ */
+ 
